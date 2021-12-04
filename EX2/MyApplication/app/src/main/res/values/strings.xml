@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="londonActivity">
+        <item>Buckingham Palace</item>
+        <item>London Eye</item>
+        <item>Hyde Park</item>
+        <item>London Tower Bridge</item>
+        <item>Natural History Gallery</item>
+        <item>Wembley Stadion</item>
+    </string-array>
+</resources>
